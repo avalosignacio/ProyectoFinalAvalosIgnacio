@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.banner {
+  width: 100%;
+  background-color: olive;
+  font-size: calc(80px - 3vw);
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#icon {
+  width: 100px;
+  height: 87px;
+  border-radius: 70px;
+}
+
+.carousel-item {
+  margin-top: 20px;
+}
+/*# sourceMappingURL=style.css.map */
