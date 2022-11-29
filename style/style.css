@@ -3,12 +3,22 @@
   padding: 0;
 }
 
-.banner {
+#banner {
   width: 100%;
+  height: 80px;
   background-color: olive;
   font-size: calc(80px - 3vw);
   text-align: center;
   font-family: 'Times New Roman', Times, serif;
+  padding: 0px;
+}
+
+nav {
+  height: 95px;
+}
+
+#mapa {
+  padding-bottom: 140px;
 }
 
 #icon {
@@ -19,5 +29,31 @@
 
 .carousel-item {
   margin-top: 20px;
+  border: 1px solid;
+  border-color: gray;
+}
+
+#text-home {
+  text-align: center;
+}
+
+#t-redes {
+  display: inline-block;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: black;
+}
+
+#carrusel {
+  font-size: 25px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #991616;
+}
+
+.contact {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: brown;
 }
 /*# sourceMappingURL=style.css.map */
