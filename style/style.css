@@ -7,14 +7,10 @@
   width: 100%;
   height: 80px;
   background-color: olive;
-  font-size: calc(80px - 3vw);
+  font-size: calc(300% - 3vh);
   text-align: center;
   font-family: 'Times New Roman', Times, serif;
   padding: 0px;
-}
-
-nav {
-  height: 95px;
 }
 
 #mapa {
@@ -23,7 +19,7 @@ nav {
 
 #icon {
   width: 100px;
-  height: 87px;
+  height: 77px;
   border-radius: 70px;
 }
 
